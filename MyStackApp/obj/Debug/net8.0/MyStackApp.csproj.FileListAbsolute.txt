@@ -1,0 +1,11 @@
+D:\Orbitax_session\MyStackApp\MyStackApp\bin\Debug\net8.0\MyStackApp.deps.json
+D:\Orbitax_session\MyStackApp\MyStackApp\bin\Debug\net8.0\MyStackApp.dll
+D:\Orbitax_session\MyStackApp\MyStackApp\bin\Debug\net8.0\MyStackApp.pdb
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\MyStackApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\MyStackApp.AssemblyInfoInputs.cache
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\MyStackApp.AssemblyInfo.cs
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\MyStackApp.csproj.CoreCompileInputs.cache
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\MyStackApp.dll
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\refint\MyStackApp.dll
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\MyStackApp.pdb
+D:\Orbitax_session\MyStackApp\MyStackApp\obj\Debug\net8.0\ref\MyStackApp.dll
